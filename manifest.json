@@ -1,0 +1,20 @@
+{
+  "name": "Geethub - Did you misspell GitHub?",
+  "short_name": "Geethub",
+  "description": "Looks like you typed 'geethub' instead of 'github'. No worries, it happens to the best of us!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fa709a",
+  "theme_color": "#fa709a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "en"
+}
